@@ -33,4 +33,4 @@ for i in range(3):
 
 
 def func():
-    print('bla bla')
+    print('bla bla bla')
