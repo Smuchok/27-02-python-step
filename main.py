@@ -23,3 +23,10 @@ print('some work in test')
 print('some work in test')
 
 print('vladsasdasd')
+
+
+name = input('Enter name:')
+print(name)
+
+for i in range(3):
+    print(i, 'loop')
