@@ -30,3 +30,7 @@ print(name)
 
 for i in range(3):
     print(i, 'loop')
+
+
+def func():
+    print('bla bla')
